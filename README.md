@@ -90,9 +90,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Sushma Rani Reddy Aleti
 
-dcase@nwmissouri.edu
+S534741@nwmissouri.edu
 
 ## New Section 
 
