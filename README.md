@@ -98,4 +98,4 @@ S534741@nwmissouri.edu
 ## New Section 
 
 123
-![image](working-with-markdown/image2.png)
+![image](Screenshot.jpg)
