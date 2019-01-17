@@ -69,7 +69,7 @@ Images look like links with an ! in front, for example, an external image can be
 ![image](https://i.ytimg.com/vi/JnFQdW0Iyp0/maxresdefault.jpg "me as baby")
 
 ## Displaying Local Images
-
+![image1](Unt1itled.png)
 You can also upload an image into your repo. 
 
 ![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
